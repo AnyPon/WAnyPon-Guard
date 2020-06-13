@@ -1,4 +1,10 @@
 # **AnyPon-Guardian Version from Advertise**
+
+For download the ad version, you need to:
+1) Click the Clone or download button
+2) Click on Download ZIP
+
+![image alt](https://github.com/gilbert9938/ddd/blob/master/image.png)
 -------------
 ![image alt](https://github.com/gilbert9938/111/blob/master/image.png "AnyPonGuardian")
 # Closed version for promoters.
